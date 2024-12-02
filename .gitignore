@@ -1,3 +1,4 @@
 helloWorld
+.scala-build
 .scala-build/*.*
 *.jar
