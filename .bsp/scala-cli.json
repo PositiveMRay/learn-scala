@@ -1,0 +1,20 @@
+{
+  "name": "scala-cli",
+  "argv": [
+    "/usr/share/scala/scala-cli",
+    "bsp",
+    "--json-options",
+    "/home/melvin/Documents/Projects/Learn/Scala/learn-scala/.scala-build/ide-options-v2.json",
+    "--json-launcher-options",
+    "/home/melvin/Documents/Projects/Learn/Scala/learn-scala/.scala-build/ide-launcher-options.json",
+    "--envs-file",
+    "/home/melvin/Documents/Projects/Learn/Scala/learn-scala/.scala-build/ide-envs.json",
+    "/home/melvin/Documents/Projects/Learn/Scala/learn-scala/HelloWorld.scala"
+  ],
+  "version": "1.5.4",
+  "bspVersion": "2.1.1",
+  "languages": [
+    "scala",
+    "java"
+  ]
+}
