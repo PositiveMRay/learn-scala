@@ -1,3 +1,5 @@
+//> using scala 3.5.2
+
 import javax.swing._
 import java.awt.event.ActionEvent
 import java.awt.event.ActionListener
